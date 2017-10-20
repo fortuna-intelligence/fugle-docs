@@ -1,3 +1,3 @@
 [submodule "fugle-realtime-api-docs"]
 	path = docs/realtime/api
-	url = git@github.com:fortuna-intelligence/fugle-realtime-api-docs.git
+	url = https://github.com/fortuna-intelligence/fugle-realtime-api-docs.git
