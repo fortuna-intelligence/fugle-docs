@@ -1,3 +1,4 @@
 [submodule "fugle-realtime-api-docs"]
 	path = docs/realtime/api
 	url = https://github.com/fortuna-intelligence/fugle-realtime-api-docs.git
+	branch = gh-pages
